@@ -30,7 +30,7 @@ Healthcare infrastructure data of AIIMS hospitals including:
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot](dashboard_screenshot.png.png)
 
 ## Author
 
